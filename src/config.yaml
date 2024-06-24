@@ -1,0 +1,12 @@
+---
+train
+    start: 2017
+    middle: 2020
+    end: 2021
+
+n_samples:
+  list:
+    - 10
+    - 20
+    - 50
+
